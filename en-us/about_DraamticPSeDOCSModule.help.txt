@@ -1,0 +1,29 @@
+TOPIC 
+	about_DramaticPSeDOCSModule
+	 
+SHORT DESCRIPTION
+	Dramatic.PSeDOCS is a PowerShell module for working with OpenText eDOCS DM via its (server) API.
+	
+	OpenText eDOCS DM is yadayadayada.. TODO
+	
+LONG DESCRIPTION
+	Dramatic.PSeDOCS version 1.0 
+
+	TODO TODO
+	
+	
+	
+	
+	
+
+AUTHOR
+	Author: Victor Vogelpoel - victor@victorvogelpoel.nl
+	Personal website: http://www.victorvogelpoel.nl
+	
+DEVELOPMENT TEAM
+	- Victor Vogelpoel: PowerShell Coding (victor@victorvogelpoel.nl)
+	
+SEE ALSO
+	about_OpenTexteDOCS
+
+	

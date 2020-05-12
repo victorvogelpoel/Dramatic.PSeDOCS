@@ -1,0 +1,18 @@
+TOPIC 
+	about_OpenTexteDOCS
+	 
+SHORT DESCRIPTION
+	OpenText eDOCS DM is yadayadayada.. TODO
+	
+LONG DESCRIPTION
+
+	TODO TODO
+	
+	
+	
+	
+	
+SEE ALSO
+	about_PSeDOCSModule
+
+	
